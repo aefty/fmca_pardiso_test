@@ -3,7 +3,7 @@
 n=200000
 k=10
 reg=1
-r=.1
+r=1
 verbose=0
 
 export OMP_NUM_THREADS=1
